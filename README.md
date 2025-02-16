@@ -1,6 +1,7 @@
 # React + Vite
 
-[Live Link]( https://mramankhann.github.io/SongListApp/)
+[Live Project]( https://mramankhann.github.io/SongListApp/)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
